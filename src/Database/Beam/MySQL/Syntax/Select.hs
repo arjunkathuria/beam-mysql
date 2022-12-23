@@ -1,6 +1,5 @@
 -- Due to RDP plugin.
 {-# OPTIONS_GHC -Wno-incomplete-record-updates #-}
-{-# OPTIONS_GHC -Wwarn -Wambiguous-fields #-}
 
 {-# LANGUAGE TypeFamilies #-}
 
